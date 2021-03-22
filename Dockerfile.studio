@@ -1,0 +1,10 @@
+FROM node:14-alpine
+
+WORKDIR /usr/src/studio
+
+COPY . .
+
+EXPOSE 5555
+
+RUN npm install -g prisma
+CMD npx prisma studio
