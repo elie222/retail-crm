@@ -1,30 +1,3 @@
-# Bedrock (early access)
-
-Welcome to Bedrock! 👋
-
-Before you get started, please **join the community** where you can chat with other folks using Bedrock, ask questions and get help:
-
-https://discord.gg/XKU3jArbm7
-
-## Getting started
-
-### Getting the code
-
-**Please do not clone the repository directly**, as that would defeat the purpose of using Bedrock — you don't want all of its git history in your own project.
-
-Instead, **download the "Source code (.zip)" file of [the latest release](https://github.com/mxstbr/bedrock/releases)**. Once that download finishes:
-
-1. Unzip the folder
-2. Rename the unzipped folder from `bedrock-x.y.z` to your product's name
-3. Open the directory on your terminal and initialize git:
-
-```sh
-cd <project>
-git init
-```
-
-After that, you're ready to get started!
-
 ### Initial setup
 
 You'll need certain environment variables to run Bedrock's functionality in local development. The first step is to:
