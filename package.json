@@ -57,7 +57,7 @@
     "@graphql-codegen/typescript": "^1.21.1",
     "@graphql-codegen/typescript-operations": "1.17.15",
     "@graphql-codegen/typescript-urql": "^2.0.5",
-    "@stripe/stripe-js": "^1.13.1",
+    "@stripe/stripe-js": "^1.15.0",
     "@types/common-tags": "^1.8.0",
     "@types/cookie-session": "^2.0.42",
     "@types/jest": "^26.0.21",
