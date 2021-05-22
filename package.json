@@ -24,7 +24,12 @@
     "cypress:open": "cypress open"
   },
   "dependencies": {
+    "@headlessui/react": "^1.2.0",
+    "@heroicons/react": "^1.0.1",
     "@prisma/client": "2.18.0",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/typography": "^0.4.0",
     "@urql/exchange-graphcache": "^4.0.0",
     "apollo-server-micro": "^2.21.2",
     "cookie-session": "^1.4.0",

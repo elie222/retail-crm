@@ -1,3 +1,4 @@
 **/*.generated.*
 **/*.graphql.d.ts
 **/*.graphqls.d.ts
+tailwind.config.js
